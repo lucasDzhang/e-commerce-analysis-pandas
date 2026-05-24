@@ -1,0 +1,16 @@
+# 忽略整个 data 文件夹
+data/
+agent/
+
+# Python 常见忽略项
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
